@@ -415,7 +415,7 @@ Nous utilisons les [Conventional Commits](https://www.conventionalcommits.org/) 
 
 ## 📄 Licence
 
-Ce projet est développé dans le cadre du programme **Mji Safi Connect**.
+Ce projet est développé dans le cadre d'un mémoire de fin d'études de Licence 3 en Génie Électrique et Informatique. Tous droits réservés.
 
 ---
 
